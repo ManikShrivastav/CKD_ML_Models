@@ -69,6 +69,9 @@ Accuracy: Proportion of correct predictions.
 Precision: Proportion of true positives out of all predicted positives.
 
 Recall (Sensitivity): Proportion of true positives out of all actual positives.
+
 F1 Score: The harmonic mean of precision and recall.
+
 ROC Curve: Visual representation of the trade-off between true positive rate (TPR) and false positive rate (FPR).
+
 AUC: Area Under the ROC Curve, indicating model performance.
