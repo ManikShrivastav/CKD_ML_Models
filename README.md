@@ -1,4 +1,5 @@
-Chronic Kidney Disease Prediction using Machine Learning
+**Chronic Kidney Disease Prediction using Machine Learning**
+
 This repository contains code and models for predicting Chronic Kidney Disease (CKD) using various machine learning algorithms. The project focuses on implementing, training, and evaluating multiple models for CKD prediction, and includes detailed graphs and calculations for performance metrics.
 
 Contents
